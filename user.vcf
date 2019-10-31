@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Tang;Christina;;;
-FN: Christina  Tang 
+N:Pradier;Julien;;;
+FN: Julien  Pradier 
 ORG:PirataGroup;
-TITLE:Head of Marketing\n Marketing Department
-EMAIL;type=INTERNET;type=WORK;type=pref:christina@piratagroup.hk
-TEL;type=WORK;type=VOICE:+852 9288 3752
+TITLE:Senior Graphic Designer\n Marketing Department
+EMAIL;type=INTERNET;type=WORK;type=pref:julien@piratagroup.hk
+TEL;type=WORK;type=VOICE:+852 5290 5079
 item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, \nWong Chuk Hang;;;;Hong Kong
 item1.X-ABADR:sg
 item2.URL;type=pref:piratagroup.hk
